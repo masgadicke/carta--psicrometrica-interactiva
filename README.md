@@ -1,4 +1,4 @@
-# Carta Psicrométrica Interactiva (ASHRAE) 🌡️💧
+# Carta Psicrométrica Interactiva (ASHRAE) 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -9,7 +9,6 @@ Una aplicación de escritorio desarrollada en Python para calcular propiedades t
 Diseñada para estudiantes y profesionales de **Ingeniería Agrícola** y climatización, esta herramienta permite visualizar cambios de estado en tiempo real y realizar cálculos precisos bajo estándares internacionales.
 
 ![Vista Previa de la Aplicación](screenshot.png)
-*(Asegúrate de subir tu captura con el nombre screenshot.png)*
 
 ## Características Principales
 
